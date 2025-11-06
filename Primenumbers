@@ -1,0 +1,9 @@
+🔢 Prime Number Generator (Java)
+This simple Java program prints all prime numbers between 2 and a user-defined number n.
+It uses basic loops and conditional checks to determine primality — a great example for beginners learning nested loops, conditional statements, and user input handling in Java.
+
+📘 Features
+Takes user input using Scanner.
+Checks and prints all prime numbers up to the given limit.
+Uses a simple algorithm that counts divisors for each number.
+Beginner-friendly and easy to understand.
